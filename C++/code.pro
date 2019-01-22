@@ -5,4 +5,9 @@ subdirs += \
 
 SUBDIRS += \
     DisplayImage \
-    DisplayVideo
+    DisplayVideo \
+    Transformation \
+    pyrDown \
+    Canny \
+    Camera \
+    WriteVideo
